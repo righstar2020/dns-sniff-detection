@@ -21,7 +21,11 @@
 
  安装依赖:
  ```shell
- pip install -r requirements.txt
+ pip install -r requirement
+ ```
+ 启动GUI
+ ```shell
+ python ./gui/mainWindow.py
  ```
  ## GUI interface
 ![](./img/sniff.png)
