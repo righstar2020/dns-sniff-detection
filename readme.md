@@ -23,6 +23,10 @@
  ```shell
  pip install -r requirement
  ```
+ 安装QfluentWidgets UI库
+ ```shell
+ pip install "PyQt-Fluent-Widgets[full]"
+ ```
  启动GUI
  ```shell
  python ./gui/mainWindow.py
